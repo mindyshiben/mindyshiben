@@ -1,14 +1,13 @@
-Hello! 👋
-My name is Mindy Shiben (she/her)
+![image](https://raw.githubusercontent.com/mindyshiben/mindyshiben/81f94a4bb6d2529a81928557b9b7bb618c5262e8/header.png)
 
-🤓 I'm currently studying data science at Codeup 
-
-:us: I'm a USAF veteran and served as an Arabic Linguist
-
-⛸ I was also a competitive figure skater & coach
-
-:round_pushpin: San Antonio, TX
-
+###### 😄 *Pronouns: she/her*  
+* 📚 I'm currently studying data science at Codeup 
+   * *🎓  Projected completion: August 2022*
+* :us: I'm a USAF veteran and served as an Arabic Linguist
+* ⛸ I was also a competitive figure skater & coach
+* ⚡ AND a 🚀 space enthusiant , 💪 competitive ninja athlete , 🎥 television personality , and ♟️ chess ~~master~~ player 
+* :round_pushpin: *currently* San Antonio, TX
+* 📬  [Email me!](mailto:mindy.shiben@gmail.com)
 
 
 <!--
