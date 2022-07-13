@@ -1,7 +1,6 @@
 ### *About Me*
 <details>
   <summary><i>Click to expand</i></summary>
-  ![image](https://raw.githubusercontent.com/mindyshiben/mindyshiben/81f94a4bb6d2529a81928557b9b7bb618c5262e8/header.png)
 
 ###### 😄 *Pronouns: she/her*  
 * 📚 I'm currently studying data science at Codeup 
