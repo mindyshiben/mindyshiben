@@ -10,24 +10,8 @@
 * ⚡ AND a 🚀 space enthusiast , 💪 competitive ninja athlete, and ♟️ chess ~~master~~ player 
 * :round_pushpin: *currently* San Antonio, TX
 * 📬  [Email me!](mailto:mindy.shiben@gmail.com)
+</details
 
-
-<!--
-
-**mindyshiben/mindyshiben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### *Connect or message me on <a href="https://www.linkedin.com/in/mindyshiben" target="_blank">Linkedin</a>*
   <!--Might want to mix this up later in order to have a Linkedin and Tableau Public profile -->
 ### *Tools I'm working with*
@@ -38,5 +22,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/pandas-130654?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-4d77cf?&style=for-the-badge&logo=numpy&logoColor=4daacf" /> <img src="https://img.shields.io/badge/matplotlib-11557c?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/seaborn-444876?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/sklearn-f7931e?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
 <!-- Note, I need to find the appropriate matplotlib logo -->
 ---
+
+
 
 
