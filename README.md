@@ -8,7 +8,7 @@
    * *🎓  Projected completion: August 2022*
 * :us: I'm a USAF veteran and served as an Arabic Linguist
 * ⛸ I was also a competitive figure skater & coach
-* ⚡ AND a 🚀 space enthusiant , 💪 competitive ninja athlete , 🎥 television personality , and ♟️ chess ~~master~~ player 
+* ⚡ AND a 🚀 space enthusiast , 💪 competitive ninja athlete, and ♟️ chess ~~master~~ player 
 * :round_pushpin: *currently* San Antonio, TX
 * 📬  [Email me!](mailto:mindy.shiben@gmail.com)
 
@@ -16,14 +16,6 @@
 <!--
 
 **mindyshiben/mindyshiben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-</details
-
-<!-- LinkedIn Badge when I'm ready to add it.
-[![Linkedin Badge](https://img.shields.io/badge/-Cayt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mindyshiben/)](https://www.linkedin.com/in/mindyshiben/)
--->
-<!--
 
 
 Here are some ideas to get you started:
